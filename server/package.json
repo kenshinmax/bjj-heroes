@@ -17,7 +17,7 @@
     "serve-favicon": "~2.4.5"
   },
   "devDependencies": {
-    "aws-sdk": "^2.375.0",
+    "aws-sdk": "^2.814.0",
     "cors": "^2.8.4"
   }
 }
