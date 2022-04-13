@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^1.2.3",
     "@material-ui/icons": "^1.1.0",
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "aws-amplify": "^0.4.5",
     "aws-amplify-react": "^0.1.51",
     "body-parser": "^1.18.3",
